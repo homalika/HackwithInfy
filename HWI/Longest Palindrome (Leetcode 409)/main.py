@@ -14,4 +14,3 @@ def longestPalindrome(s):
         return c 
 
 print(longestPalindrome("abccccdd"))
-# leetcode 860 , 455

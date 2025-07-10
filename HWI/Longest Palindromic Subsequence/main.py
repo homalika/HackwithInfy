@@ -1,5 +1,3 @@
-# https://blog.algomaster.io/p/15-leetcode-patterns
-
 s = "bbbab"
 ss = s[::-1]
 m = [[0]*(len(s)+1) for i in range(len(ss)+1)]

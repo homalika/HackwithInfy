@@ -1,5 +1,3 @@
-# codedpad - 9127
-
 def safe(board,r,c):
     for i in range(0,r):
         if board[i][c]==1:

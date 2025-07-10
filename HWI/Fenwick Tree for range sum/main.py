@@ -26,5 +26,3 @@ tree = [0] * len(arr)
 build(arr, tree)
 print(tree)
 print(ran(tree, 3, 6))
-
-#ai/ml, cyber, devops, cloud - aws,azure, gcp

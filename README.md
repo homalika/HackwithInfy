@@ -2,7 +2,7 @@
 
 Welcome to my HackWithInfy preparation repository! 🚀  
 This repository contains a collection of coding problems, solutions, and notes that I practiced while preparing for the **HackWithInfy coding round**.  
-The aim is to strengthen problem-solving skills and get hands-on with core DSA concepts commonly asked in the exxam.
+The aim is to strengthen problem-solving skills and get hands-on with core DSA concepts commonly asked in the exam.
 
 ---
 
